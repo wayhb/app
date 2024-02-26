@@ -1,0 +1,16 @@
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.csproj.AssemblyReference.cache
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.AssemblyInfoInputs.cache
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.AssemblyInfo.cs
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.csproj.CoreCompileInputs.cache
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.sourcelink.json
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\bin\Debug\net8.0\Coffee.Memory.deps.json
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\bin\Debug\net8.0\Coffee.Memory.dll
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\bin\Debug\net8.0\Coffee.Memory.pdb
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\bin\Debug\net8.0\Сoffee.dll
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\bin\Debug\net8.0\Сoffee.pdb
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.csproj.CopyComplete
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.dll
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\refint\Coffee.Memory.dll
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\Coffee.Memory.pdb
+C:\Users\Adelya\Desktop\app\coffee\infrastructure\Coffee.Memory\obj\Debug\net8.0\ref\Coffee.Memory.dll

@@ -1,0 +1,12 @@
+C:\Users\Adelya\Desktop\app\coffee\coffee\bin\Debug\net8.0\Сoffee.deps.json
+C:\Users\Adelya\Desktop\app\coffee\coffee\bin\Debug\net8.0\Сoffee.dll
+C:\Users\Adelya\Desktop\app\coffee\coffee\bin\Debug\net8.0\Сoffee.pdb
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\Сoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\Сoffee.AssemblyInfoInputs.cache
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\Сoffee.AssemblyInfo.cs
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\Сoffee.csproj.CoreCompileInputs.cache
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\Сoffee.sourcelink.json
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\Сoffee.dll
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\refint\Сoffee.dll
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\Сoffee.pdb
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\ref\Сoffee.dll

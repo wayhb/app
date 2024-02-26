@@ -1,0 +1,12 @@
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\coffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\coffee.AssemblyInfoInputs.cache
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\coffee.AssemblyInfo.cs
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\coffee.csproj.CoreCompileInputs.cache
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\coffee.sourcelink.json
+C:\Users\Adelya\Desktop\app\coffee\coffee\bin\Debug\net8.0\coffee.deps.json
+C:\Users\Adelya\Desktop\app\coffee\coffee\bin\Debug\net8.0\coffee.dll
+C:\Users\Adelya\Desktop\app\coffee\coffee\bin\Debug\net8.0\coffee.pdb
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\coffee.dll
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\refint\coffee.dll
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\coffee.pdb
+C:\Users\Adelya\Desktop\app\coffee\coffee\obj\Debug\net8.0\ref\coffee.dll
